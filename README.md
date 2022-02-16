@@ -307,6 +307,7 @@ wsa://com.android.settings
 | TikTok Lite | 21.7.1 | ❌ | App crashes ||
 | Telegram | 8.1.2 | ✅ |||
 | Тинькофф (Tinkoff Bank) | 5.20.0 | ✅ |||
+| Touhou Lost Word | 1.4.2 | ❌ | App crashes ||
 | TP-Link Tapo | 2.4.25 | ✅ ||
 | True Skate | 1.5.39 | ✅ | Minor graphical glitches ||
 | Trello | 2021.14.1.16332-production | ⚠️ | Login needs web browser installed in WSA, using Windows' default browser will not work | |
