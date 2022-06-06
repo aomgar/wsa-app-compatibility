@@ -307,6 +307,7 @@ wsa://com.android.settings
 | TikTok Lite | 21.7.1 | ❌ | App crashes ||
 | Telegram | 8.1.2 | ✅ |||
 | Тинькофф (Tinkoff Bank) | 5.20.0 | ✅ |||
+|Touhou Lost Word (Global) | 1.7.0 | 🆖 | Needs to be installed by third party service (Like QooApp) or it crashes/stays in black, may need reinstallation every session||
 | TP-Link Tapo | 2.4.25 | ✅ ||
 | True Skate | 1.5.39 | ✅ | Minor graphical glitches ||
 | Trello | 2021.14.1.16332-production | ⚠️ | Login needs web browser installed in WSA, using Windows' default browser will not work | |
